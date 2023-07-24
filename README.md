@@ -2,6 +2,8 @@
 
 This is a weather app that allows a user to login and display features to fetch current weather, and historical weather. It also allows the user to associate historical weather information with a real life event (for example: a vacation day), along with date-time information and retrieve it.
 
+## Problem Statement
+
 ## Available Scripts
 
 In the project directory, you can run:
