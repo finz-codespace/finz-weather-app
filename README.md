@@ -9,7 +9,7 @@ The goal is to build a weather app that has the following features:
 1. Sign up Page that allows a user to setup first name, last name, email and password.
 2. Login Page that allows an exiting user to login.
 3. A landing page that shows the following: 
-    - Some general user stats like, Full name (first name following by last name), date-time of last login, and login counts so far.
+    - Some general user stats like, Full name (first name followed by last name), date-time of last login, and login counts so far.
     - A weather widget that shows a few current weather data features, like temperature, precipitation, wind speed etc.
     - A panel for fetching historical weather data that allows the user to enter latitude, longitude, and date-time to fetch historical weather.
 
