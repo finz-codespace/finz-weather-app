@@ -19,6 +19,14 @@ Please code the above frontend features using React components.
 
 **Note**: Please note that the Backend of this app does not exist as of now. Please make necessary assmptions while developing the Frontend React app and use mocking to simulate any backend APIs you feel would be required. For example you can consider the use of [Mock JSON Server](https://www.npmjs.com/package/json-server), for mocking the backend.
 
+## Submitting Instructions
+Please follow the below steps to complete and submit this assignment - 
+1. Provide us your GitHub username / profile, if you do not have a GitHub account create a new one (You must have already done this when you submitted the main form before starting with this assignment).
+2. Login to your own GitHub account, Navigate to this repository by searching for **_finz-whether-app_** repository on github.![image](https://github.com/finz-codespace/finz-weather-app/assets/138383712/86df3ee3-dd6d-4ec1-b9e0-47f0d62b9dde)
+
+3. Navigate to this repository and 
+4. Perform all your work in your own branch
+
 ## Available Scripts
 
 In the project directory, you can run:
