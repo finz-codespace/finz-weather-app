@@ -17,13 +17,7 @@ Please code the above frontend features using React components.
 - Keep the React frontend code separated from any backend functionality like calling weather API or interacting with database.
 - For the initial iteration just create a set of frontend pages mentioned about without any backend functionality, for example, create the sign up and login pages where sign up / login buttons work without any user inputs and take you to a landing page that contains UI components which use hard coded values. If you want to use JSON objects behind your React components or maintain React state with the useState hook, hard code the backing JSON objects as per your requirements and use them in the state. 
 
-### Backend (NOT included in the assignment)
-The backend will need to implement the following: 
-- Registering and storing user information at the time of sign up. 
-- Validating user and creating a user session at the time of login / signup.
-- Calling the OpenWeatherMap API for fetching weather info. [OpenWeatherMap](https://openweathermap.org/api/one-call-3)
-
-The specific details about how to use the [OpenWeatherMap](https://openweathermap.org/api/one-call-3) API will be published once you have completed and submitted the Frontend part of the assignment.
+**Note**: Please note that the Backend of this app does not exist as of now. Please make necessary assmptions while developing the Frontend React app and use mocking to simulate any backend APIs you feel would be required. For example you can consider the use of [Mock JSON Server](https://www.npmjs.com/package/json-server), for mocking the backend.
 
 ## Available Scripts
 
